@@ -3107,6 +3107,9 @@ body.is-touch .poptrox-popup .closer {
 		font-size: 12pt;
 	}
 
+	.inner h1 {
+		font-size: 2rem !important;
+	}
 }
 
 /* Large */
@@ -3149,6 +3152,10 @@ body.is-touch .poptrox-popup .closer {
 		max-width: none;
 		padding: 6em 3em 3em 3em;
 		width: calc(100% - 30%);
+	}
+
+	.inner h1 {
+		font-size: 2rem !important;
 	}
 
 }
@@ -3238,7 +3245,13 @@ body.is-touch .poptrox-popup .closer {
 		width: 100%;
 	}
 
+	.inner h1 {
+		font-size: 2rem !important;
+	}
+
 }
+
+
 
 /* Small */
 
@@ -3317,6 +3330,10 @@ body.is-touch .poptrox-popup .closer {
 		margin-top: -1em;
 	}
 
+	.inner h1 {
+		font-size: 2rem !important;
+	}
+
 }
 
 /* XSmall */
@@ -3343,9 +3360,12 @@ body.is-touch .poptrox-popup .closer {
 		padding-left: 0;
 	}
 
+	.inner h1 {
+		font-size: 2rem !important;
+	}
 }
 
 .inner h1 {
 	text-align: left !important;
-	font-size: 2.5rem !important;
+	font-size: 2rem !important;
 }
